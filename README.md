@@ -10,3 +10,6 @@
 - **Session 3: Sunday, April 16, 16:30-18:00**
   - *Parallel Multigrid* by Ulrike Meier Yang at Lawrence Livermore National Laboratory
   - slides: [Copper2023-ParMG-Tutorial.pdf](./Copper2023-ParMG-Tutorial.pdf)
+- **Session 4: Monday, April 17, 14:30-16:00**
+  - *Multigrid Methods for Coupled Systems* by Scott MacLachlan at Memorial University of Newfoundland
+  - slides: [Copper2023-SysMG-Tutorial.pdf](./Copper2023-SysMG-Tutorial.pdf)
