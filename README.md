@@ -3,6 +3,7 @@
 - **Session 1: Sunday, April 16, 10:00-12:00**
   - *Multigrid - the Fundamentals* by Hans De Sterck at the University of Waterloo
   - slides: [Copper2023-MG-Tutorial.pdf](./Copper2023-MG-Tutorial.pdf)
+  - annotated slides (as presented): [Copper2023-MG-Tutorial-annotated.pdf](./Copper2023-MG-Tutorial-annotated.pdf)
   - additional material: https://github.com/lukeolson/copper-multigrid-tutorial 
 - **Session 2: Sunday, April 16, 14:00-16:00**
   - *Algebraic Multigrid and Advanced Topics* by James Brannick at Penn State University
